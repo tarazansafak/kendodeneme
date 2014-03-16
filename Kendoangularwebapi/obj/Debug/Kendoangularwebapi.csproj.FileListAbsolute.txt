@@ -1,0 +1,13 @@
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\Kendoangularwebapi.dll.config
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\Kendoangularwebapi.dll
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\Kendoangularwebapi.pdb
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\Newtonsoft.Json.dll
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\System.Net.Http.Formatting.dll
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\System.Web.Http.dll
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\System.Web.Http.WebHost.dll
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\Newtonsoft.Json.xml
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\System.Net.Http.Formatting.xml
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\System.Web.Http.xml
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\bin\System.Web.Http.WebHost.xml
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\obj\Debug\Kendoangularwebapi.dll
+E:\VSProjects\Kendoangularwebapi\Kendoangularwebapi\Kendoangularwebapi\obj\Debug\Kendoangularwebapi.pdb
